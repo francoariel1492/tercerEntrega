@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Camiseta de algodón",
+    "description": "Camiseta básica de algodón 100%, perfecta para el día a día",
+    "code": "CT-001",
+    "price": 9.99,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "https://example.com/thumbnails/ct001-1.jpg",
+      "https://example.com/thumbnails/ct001-2.jpg"
+    ]
+  },
+  {
+    "title": "Vaqueros slim fit",
+    "description": "Vaqueros de corte ajustado con acabado desgastado",
+    "code": "VJ-002",
+    "price": 39.99,
+    "stock": 20,
+    "category": "Ropa",
+    "thumbnails": [
+      "https://example.com/thumbnails/vj002-1.jpg",
+      "https://example.com/thumbnails/vj002-2.jpg"
+    ]
+  },
+  {
+    "title": "Zapatillas deportivas",
+    "description": "Zapatillas deportivas con suela de goma antideslizante",
+    "code": "ZP-003",
+    "price": 29.99,
+    "stock": 30,
+    "category": "Calzado",
+    "thumbnails": [
+      "https://example.com/thumbnails/zp003-1.jpg",
+      "https://example.com/thumbnails/zp003-2.jpg"
+    ]
+  },
+  {
+    "title": "Reloj de pulsera",
+    "description": "Reloj de pulsera analógico con correa de cuero",
+    "code": "RL-004",
+    "price": 49.99,
+    "stock": 10,
+    "category": "Accesorios",
+    "thumbnails": [
+      "https://example.com/thumbnails/rl004-1.jpg",
+      "https://example.com/thumbnails/rl004-2.jpg"
+    ]
+  }
+]
